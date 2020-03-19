@@ -1,3 +1,10 @@
 #!/bin/bash
-echo "hello world"
-echo "insert"
+echo "insert0"
+echo "insert1"
+echo "insert2"
+echo "insert3"
+echo "insert4"
+echo "insert5"
+echo "insert6"
+echo "insert7"
+echo "insert8"
